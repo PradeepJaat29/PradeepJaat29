@@ -14,23 +14,6 @@ Currently focused on **DSA**, **Java Development**, and **Cybersecurity**, I’m
 
 ---
 
-## 🛠️ Skills & Stack
-
-
-### 💻 Programming
-`Java` | `Python` (basic) | `HTML/CSS` 
-
-### 🛡️ Cybersecurity
-`Burp Suite` | `TryHackMe` | `PortSwigger Labs` | `OWASP Top 10`
-
-### 📚 Computer Science Core
-`OS` | `DBMS` | `CN` | `SQL` | `DSA`
-
-### 🔧 Tools
-`Git` | `GitHub` | `VS Code` | `Eclipse IDE` | `Wireshark` | `Linux Terminal`
-
----
-
 ## 🛡️ Skills & Tools
 
 <p align="center">
@@ -44,7 +27,7 @@ Currently focused on **DSA**, **Java Development**, and **Cybersecurity**, I’m
   <img src="https://img.shields.io/badge/VSCode-IDE-blue?style=for-the-badge&logo=visualstudiocode"/>
   <img src="https://img.shields.io/badge/Git-VersionControl-orange?style=for-the-badge&logo=git"/>
   <img src="https://img.shields.io/badge/GitHub-Repos-black?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/IntelliJ-IDEA-purple?style=for-the-badge&logo=intellijidea"/>
+  <img src="https://img.shields.io/badge/Eclipse-IDE-purple?style=for-the-badge&logo=intellijidea"/>
   <img src="https://img.shields.io/badge/Wireshark-NetworkAnalysis-blue?style=for-the-badge&logo=wireshark"/>
   <img src="https://img.shields.io/badge/BurpSuite-WebSecurity-critical?style=for-the-badge&logo=burpsuite"/>
   <br><br>
