@@ -16,6 +16,7 @@ Currently focused on **DSA**, **Java Development**, and **Cybersecurity**, I’m
 
 ## 🛠️ Skills & Stack
 
+
 ### 💻 Programming
 `Java` | `Python` (basic) | `HTML/CSS` 
 
@@ -27,6 +28,31 @@ Currently focused on **DSA**, **Java Development**, and **Cybersecurity**, I’m
 
 ### 🔧 Tools
 `Git` | `GitHub` | `VS Code` | `Eclipse IDE` | `Wireshark` | `Linux Terminal`
+
+---
+
+## 🛡️ Skills & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DSA-Important-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-Active-blue?style=for-the-badge&logo=security"/>
+  <img src="https://img.shields.io/badge/SQL-Database-lightgrey?style=for-the-badge&logo=sqlite"/>
+  <img src="https://img.shields.io/badge/Operating System-Concepts-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Networking-CN-blue?style=for-the-badge"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/VSCode-IDE-blue?style=for-the-badge&logo=visualstudiocode"/>
+  <img src="https://img.shields.io/badge/Git-VersionControl-orange?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-Repos-black?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/IntelliJ-IDEA-purple?style=for-the-badge&logo=intellijidea"/>
+  <img src="https://img.shields.io/badge/Wireshark-NetworkAnalysis-blue?style=for-the-badge&logo=wireshark"/>
+  <img src="https://img.shields.io/badge/BurpSuite-WebSecurity-critical?style=for-the-badge&logo=burpsuite"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/Placement-2025-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Learning-Everyday-blue?style=for-the-badge&logo=leetcode"/>
+  <img src="https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme"/>
+  <img src="https://img.shields.io/badge/PortSwigger-Active-orange?style=for-the-badge&logo=portswigger"/>
+</p>
 
 ---
 
