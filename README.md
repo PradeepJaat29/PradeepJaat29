@@ -77,4 +77,4 @@ Currently focused on **DSA**, **Java Development**, and **Cybersecurity**, I’m
 
 ## 🔒 Cyber Quote of the Day:
 
-> *“If you give a hacker a new toy, the first thing he’ll do is take it apart to figure out how it works.”* — Jamie Zawinski
+> *“At the end of the day, the goals are simple: safety and security.”* — Jodi Rell
