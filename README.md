@@ -33,7 +33,6 @@ Currently focused on **DSA**, **Java Development**, and **Cybersecurity**, I’m
   <br><br>
   <img src="https://img.shields.io/badge/Placement-2025-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Learning-Everyday-blue?style=for-the-badge&logo=leetcode"/>
-  <img src="https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme"/>
   <img src="https://img.shields.io/badge/PortSwigger-Active-orange?style=for-the-badge&logo=portswigger"/>
 </p>
 
@@ -64,7 +63,6 @@ Currently focused on **DSA**, **Java Development**, and **Cybersecurity**, I’m
 ## 🎯 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/pradeep-chaudharycs)
-- 🧠 [TryHackMe](https://tryhackme.com/p/princechaudhary2)
 - 📝 Email: `princechaudhary2911@gmail.com`
 
 ---
