@@ -1,4 +1,4 @@
-# 👨‍💻 Pradeep Chauhdary | Engineer in the Gym 🏋️‍♂️ | Cyber & Code Enthusiast 💻🛡️
+# 👨‍💻 Pradeep Chaudhary | Engineer in the Gym 🏋️‍♂️ | Cyber & Code Enthusiast 💻🛡️
 
 Hi there 👋  
 I’m **Pradeep Chaudhary**, a final year B.Tech student who codes with passion, lifts with purpose, and hacks with curiosity.  
