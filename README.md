@@ -76,4 +76,4 @@ Currently focused on **DSA**, **Java Development**, and **Cybersecurity**, I’m
 
 ## 🔒 Cyber Quote of the Day:
 
-> *“At the end of the day, the goals are simple: safety and security.”* — Jodi Rell
+> *“Technology trust is a good thing, but control is a better one.”* — Stephane Nappo
