@@ -7,8 +7,8 @@ Currently focused on **DSA**, **Java Development**, and **Cybersecurity**, I’m
 ---
 
 ## 🚀 My Mission Control
-- 🎯 Preparing for placements with Java, C++, and DSA
-- 🛡️ Learning web security via PortSwigger & TryHackMe
+- 🎯 Preparing for placements with Java and DSA
+- 🛡️ Learning web security via PortSwigger & HackTheBox
 - 🧠 Building projects that solve real-world problems
 - 🔧 Mastering tools like Burp Suite, Git, and Linux
 
