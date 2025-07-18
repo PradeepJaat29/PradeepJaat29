@@ -45,7 +45,7 @@ Currently focused on **DSA**, **Java Development**, and **Cybersecurity**, I’m
   Java console app to support emotional healing via journaling, quotes & music.  
   _Technologies: Java, File I/O, Modular Programming_
 
-- 🗺️ **Career Map Generator** *(In Progress)*  
+- 🗺️ **Career Map Generator** *(1 day left to be completed)*  
   Personalized roadmap builder for students to track skills, goals & growth.
 
 - 🔐 **Burp Attack Logs**  
