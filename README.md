@@ -8,7 +8,7 @@ Currently focused on **DSA**, **Java Development**, and **Cybersecurity**, I’m
 
 ## 🚀 My Mission Control
 - 🎯 Preparing for placements with Java and DSA
-- 🛡️ Learning web security via PortSwigger, HackTheBox, TryHackMe & HackViser
+- 🛡️ Learning web security via PortSwigger, HackTheBox, TryHackMe & hackviser
 - 🧠 Building projects that solve real-world problems
 - 🔧 Mastering tools like Burp Suite, Git, and Linux
 
@@ -32,9 +32,9 @@ Currently focused on **DSA**, **Java Development**, and **Cybersecurity**, I’m
   <img src="https://img.shields.io/badge/TryHackMe-Profile-maroon?style=for-the-badge&logo=tryhackme"/>
   <img src="https://img.shields.io/badge/Wireshark-NetworkAnalysis-blue?style=for-the-badge&logo=wireshark"/>
   <img src="https://img.shields.io/badge/BurpSuite-WebSecurity-critical?style=for-the-badge&logo=burpsuite"/>
-  <img src ="https://img.shields.io/badge/Hackviser-View%20Profile-blue?style=for-the-badge&logo=hackaday&logoColor=white)](https://hackviser.com/user/yourusername)
-
   <br><br>
+
+  <img src="https://img.shields.io/badge/hackviser-Profile-darkblue?style=for-the-badge&logo=hackaday&logoColor=white"/>
   <img src="https://img.shields.io/badge/Placement-2025-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Learning-Everyday-blue?style=for-the-badge&logo=leetcode"/>
   <img src="https://img.shields.io/badge/PortSwigger-Active-orange?style=for-the-badge&logo=portswigger"/>
