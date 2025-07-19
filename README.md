@@ -29,6 +29,7 @@ Currently focused on **DSA**, **Java Development**, and **Cybersecurity**, I’m
   <img src="https://img.shields.io/badge/GitHub-Repos-black?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/Eclipse-IDE-purple?style=for-the-badge&logo=eclipseide"/>
   <img src="https://img.shields.io/badge/HackTheBox-Profile-green?style=for-the-badge&logo=hackthebox"/>
+  <img src="https://img.shields.io/badge/TryHackMe-Profile-maroon?style=for-the-badge&logo=tryhackme"/>
   <img src="https://img.shields.io/badge/Wireshark-NetworkAnalysis-blue?style=for-the-badge&logo=wireshark"/>
   <img src="https://img.shields.io/badge/BurpSuite-WebSecurity-critical?style=for-the-badge&logo=burpsuite"/>
   <br><br>
