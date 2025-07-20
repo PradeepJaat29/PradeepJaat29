@@ -54,6 +54,7 @@ Currently focused on **DSA**, **Java Development**, and **Cybersecurity**, I’m
   _Technolgies: Java 21, OOP, CLI (Scanner I/O), File I/O, .txt data files, ASCII banners, modular folder structure_
 
 - 🔐 **Burp Attack Logs**  *(In Progress)*
+  <br>
   A documented series of hands-on web security tests using Burp Suite & PortSwigger labs.
 
 ---
