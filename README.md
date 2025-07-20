@@ -48,8 +48,9 @@ Currently focused on **DSA**, **Java Development**, and **Cybersecurity**, I’m
   Java console app to support emotional healing via journaling, quotes & music.  
   _Technologies: Java, File I/O, Modular Programming_
 
-- 🗺️ **Career Map Generator** *(1 day left to be completed)*  
+- 🗺️ **Career Map Generator**   
   Personalized roadmap builder for students to track skills, goals & growth.
+  _Technolgies: Java 21, OOP, CLI (Scanner I/O), File I/O, .txt data files, ASCII banners, modular folder structure_
 
 - 🔐 **Burp Attack Logs**  
   A documented series of hands-on web security tests using Burp Suite & PortSwigger labs.
