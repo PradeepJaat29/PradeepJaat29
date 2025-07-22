@@ -34,6 +34,11 @@
 
 ---
 
+💻 Scripting & OS
+<p align="center"> <img src="https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-CommandLine-black?style=for-the-badge&logo=linux&logoColor=yellow"/> </p>
+
+---
+
 ### 🧰 Tools & IDEs
 <p align="center">
   <img src="https://img.shields.io/badge/VSCode-IDE-blue?style=for-the-badge&logo=visualstudiocode"/>
