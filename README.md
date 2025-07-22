@@ -104,19 +104,10 @@
 ## 🎯 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pradeep-chaudharycs" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-PrinceChaudhary-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:princechaudhary2911@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ContactMe-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/PradeepJaat29" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-raaksh-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://leetcode.com/u/pra_deep_11" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-raaksh-orange?style=for-the-badge&logo=leetcode" />
-  </a>
-</p>
+  <a href="https://www.linkedin.com/in/pradeep-chaudharycs" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-PrdeepChaudhary-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:princechaudhary2911@gmail.com"><img src="https://img.shields.io/badge/Email-ContactMe-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/PradeepJaat29" target="_blank"><img src="https://img.shields.io/badge/GitHub-Pradeep-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://leetcode.com/u/pra_deep_11" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Pradeep-orange?style=for-the-badge&logo=leetcode" /></a></p>
 
 ---
 
