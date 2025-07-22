@@ -7,8 +7,7 @@
 
 
 
-Hi there 👋  
-I’m **Pradeep Chaudhary**, a final year B.Tech student who codes with passion, lifts with purpose, and hacks with curiosity.  
+A final year B.Tech student who codes with passion, lifts with purpose, and hacks with curiosity.  
 Currently focused on **DSA**, **Java Development**, and **Cybersecurity**, I’m on a mission to become placement-ready and contribute to open-source.
 
 ---
