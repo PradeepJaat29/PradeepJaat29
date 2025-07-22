@@ -35,7 +35,9 @@
 ---
 
 💻 Scripting & OS
-<p align="center"> <img src="https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-CommandLine-black?style=for-the-badge&logo=linux&logoColor=yellow"/> </p>
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Linux-CommandLine-black?style=for-the-badge&logo=linux&logoColor=yellow"/> </p>
 
 ---
 
