@@ -2,7 +2,7 @@
 <h3 align="center">
   <strong>Final-year B.Tech CSE | Cybersecurity | Java Development | Ethical Hacking | Fitness Influencer | Placement</strong><br></h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFD5&center=true&vCenter=true&width=900&lines=Aspiring+Security+Analyst+%7C+Cyber+Learner;Engineer+in+the+Gym+%7C+Built+Different;Content+Creator+%7C+Real+Raw+Relentless;Final+Year+CSE+Student+%40+LPU;DSA+%7C+HackTheBox+%7C+Burp+Suite+Grinder;Healing+%7C+Lifting+%7C+Growing;From+Breakdown+to+Breakthrough;Future+Red+Team+Specialist+in+Making;Discipline+Over+Motivation+%7C+Execution+%3E+Excuses" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Aspiring+Security+Analyst+%7C+Cyber+Learner;Engineer+in+the+Gym+%7C+Built+Different;Content+Creator+%7C+Real+Raw+Relentless;Final+Year+CSE+Student+%40+LPU;DSA+%7C+TryHackMe+%7C+Burp+Suite+Grinder;Healing+%7C+Lifting+%7C+Growing;From+Breakdown+to+Breakthrough;Future+Red+Team+Specialist+in+Making;Discipline+Over+Motivation+%7C+Execution+%3E+Excuses" alt="Typing SVG" />
 </p>
 
 
