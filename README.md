@@ -76,20 +76,14 @@
 
 ---
 
-## 🔥 Current Projects
+## 🌱 Currently Learning
 
-- 🧠 **Breakup Recovery Journal**  
-  Java console app to support emotional healing via journaling, quotes & music.  
-  _Technologies: Java, File I/O, Modular Programming_
-
-- 🗺️ **Career Map Generator**   
-  Personalized roadmap builder for students to track skills, goals & growth.
-  <br>
-  _Technolgies: Java 21, OOP, CLI (Scanner I/O), File I/O, .txt data files, ASCII banners, modular folder structure_
-
-- 🔐 **Burp Attack Logs**  *(In Progress)*
-  <br>
-  A documented series of hands-on web security tests using Burp Suite & PortSwigger labs.
+- Enrolled in **Certified Associate Penetration Tester**
+- Advanced Java & OOPs
+- Linux Privilege Escalation
+- PortSwigger Labs
+- Completing TryHackMe rooms
+- Ongoing Projects: Burp Attack Logs, LeetCode Questions
 
 ---
 
