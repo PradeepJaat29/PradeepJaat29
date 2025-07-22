@@ -7,7 +7,10 @@
 
 
 ---
-
+## 🏁 Stats & Trophy Wall  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=raaksh&theme=dracula&margin-w=10&row=1&column=6"/>
+</p>
 ## 🚀 My Mission Control
 - 🎯 Preparing for placements with Java and DSA
 - 🛡️ Learning web security via PortSwigger, TryHackMe & hackviser
