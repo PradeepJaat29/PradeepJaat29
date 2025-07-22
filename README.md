@@ -60,10 +60,7 @@
 ---
 
 ### 🌐 Platforms & Profiles
-<p align="center">
-  <img src="https://img.shields.io/badge/TryHackMe-Profile-maroon?style=for-the-badge&logo=tryhackme"/>
-  <img src="https://img.shields.io/badge/hackviser-Profile-darkblue?style=for-the-badge&logo=hackaday&logoColor=white"/>
-</p>
+<p align="center"> <a href="https://tryhackme.com/p/princechaudhary2911" target="_blank"> <img src="https://img.shields.io/badge/TryHackMe-Profile-maroon?style=for-the-badge&logo=tryhackme"/> </a> <a href="https://www.hackviser.com/profile/pradeep11" target="_blank"> <img src="https://img.shields.io/badge/hackviser-Profile-darkblue?style=for-the-badge&logo=hackaday&logoColor=white"/> </a> </p>
 
 ---
 
