@@ -1,4 +1,11 @@
-# 👨‍💻 Pradeep Chaudhary | Engineer in the Gym 🏋️‍♂️ | Cyber & Code Enthusiast 💻🛡️
+<h1 align="center">Pradeep Chaudhary💻</h1>
+<p align="center">
+  <strong>Final-year B.Tech CSE | Cybersecurity Learner | Ethical Hacking | Fitness Influencer | Placement Ready</strong><br></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Aspiring+Security+Analyst;Engineer+in+the+Gym;Cyber+%26+Code+Enthusiast;Content+Creator+%7C+Storyteller;Final+Year+CSE+Student+%40+LPU;DSA+%2B+HackTheBox+Grind;Recovering+Warrior+%7C+Healing+Through+Discipline;Built+From+Breakdowns%2C+Chasing+Breakthroughs" alt="Typing SVG" />
+</p>
+
+
 
 Hi there 👋  
 I’m **Pradeep Chaudhary**, a final year B.Tech student who codes with passion, lifts with purpose, and hacks with curiosity.  
