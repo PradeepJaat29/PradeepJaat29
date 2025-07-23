@@ -9,10 +9,10 @@
 ---
 
 ## 🚀 My Mission Control
-- 🎯 Preparing for placements with Java and DSA
-- 🛡️ Learning web security via PortSwigger, TryHackMe & Hackviser
-- 🧠 Building projects that solve real-world problems
-- 🔧 Mastering tools like Burp Suite, Git, and Linux
+- 🎯 Preparing for placements with Java and DSA.
+- 🛡️ Learning web security via PortSwigger, TryHackMe & Hackviser.
+- 🧠 Building projects that solve real-world problems.
+- 🔧 Mastering tools like Burp Suite, Git, and Linux.
 
 ---
 
