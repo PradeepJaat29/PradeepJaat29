@@ -82,7 +82,7 @@
 - Advanced Java & OOPs
 - Linux Privilege Escalation
 - PortSwigger Labs
-- Completing TryHackMe rooms
+- Completing TryHackMe rooms daily
 - Ongoing Projects: Burp Attack Logs, LeetCode Questions
 
 ---
