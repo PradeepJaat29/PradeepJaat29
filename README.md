@@ -9,21 +9,21 @@
 <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
 <style>
   :root{
-    --bg:#05070d;
-    --bg-panel:rgba(13,22,38,0.55);
-    --bg-panel-2:rgba(18,30,50,0.65);
-    --line:rgba(0,229,255,0.22);
-    --line-soft:rgba(0,229,255,0.10);
-    --text:#eaf6ff;
-    --text-dim:#93aec4;
-    --text-dimmer:#516b82;
-    --accent:#00e5ff;
-    --accent-2:#ff3df0;
-    --radius:2px;
-    --mono: 'JetBrains Mono', monospace;
-    --display: 'Space Grotesk', sans-serif;
-    --glow-cyan: 0 0 16px rgba(0,229,255,0.45), 0 0 2px rgba(0,229,255,0.8);
-    --glow-magenta: 0 0 16px rgba(255,61,240,0.4), 0 0 2px rgba(255,61,240,0.75);
+    bg:#05070d;
+    bg-panel:rgba(13,22,38,0.55);
+    bg-panel-2:rgba(18,30,50,0.65);
+    line:rgba(0,229,255,0.22);
+    line-soft:rgba(0,229,255,0.10);
+    text:#eaf6ff;
+    text-dim:#93aec4;
+    text-dimmer:#516b82;
+    accent:#00e5ff;
+    accent-2:#ff3df0;
+    radius:2px;
+    mono: 'JetBrains Mono', monospace;
+    display: 'Space Grotesk', sans-serif;
+    glow-cyan: 0 0 16px rgba(0,229,255,0.45), 0 0 2px rgba(0,229,255,0.8);
+    glow-magenta: 0 0 16px rgba(255,61,240,0.4), 0 0 2px rgba(255,61,240,0.75);
   }
 
   *{box-sizing:border-box; margin:0; padding:0;}
