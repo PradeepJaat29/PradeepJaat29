@@ -6,6 +6,7 @@
 <title>Pradeep Chaudhary — Software &amp; Data Engineer</title>
 <meta name="description" content="Portfolio of Pradeep Chaudhary, Computer Science Engineering graduate — software development, data analytics, and AI/ML.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
 <style>
   :root{
@@ -20,10 +21,10 @@
     --accent:#00e5ff;
     --accent-2:#ff3df0;
     --radius:2px;
-    --mono: 'JetBrains Mono', monospace;
-    --display: 'Space Grotesk', sans-serif;
-    --glow-cyan: 0 0 16px rgba(0,229,255,0.45), 0 0 2px rgba(0,229,255,0.8);
-    --glow-magenta: 0 0 16px rgba(255,61,240,0.4), 0 0 2px rgba(255,61,240,0.75);
+    --mono:'JetBrains Mono', monospace;
+    --display:'Space Grotesk', sans-serif;
+    --glow-cyan:0 0 16px rgba(0,229,255,0.45), 0 0 2px rgba(0,229,255,0.8);
+    --glow-magenta:0 0 16px rgba(255,61,240,0.4), 0 0 2px rgba(255,61,240,0.75);
   }
 
   *{box-sizing:border-box; margin:0; padding:0;}
@@ -68,7 +69,7 @@
   @media (prefers-reduced-motion: reduce){
     body::after{animation:none; display:none;}
   }
-  header, main, footer{position:relative; z-index:2;}
+  main, footer{position:relative; z-index:2;}
 
   a{color:inherit;}
 
@@ -138,6 +139,7 @@
     text-transform:uppercase;
     margin-bottom:22px;
     display:flex; align-items:center; gap:10px;
+    text-shadow:0 0 10px rgba(255,61,240,0.35);
   }
   .eyebrow::before{
     content:"";
@@ -148,7 +150,6 @@
     display:inline-block;
     animation: blink 2.2s infinite steps(1);
   }
-  .eyebrow{text-shadow:0 0 10px rgba(95,212,196,0.35);}
   @keyframes blink{ 50%{opacity:0.25;} }
 
   .hero h1{
@@ -405,6 +406,7 @@
     color:var(--accent);
     font-family:var(--mono);
   }
+  .project-body li strong{color:var(--accent-2);}
 
   /* ---------- Experience ---------- */
   .timeline{border-left:1px solid var(--line); margin-left:6px;}
@@ -495,7 +497,7 @@
   }
 
   /* ---------- Footer / Contact ---------- */
-  footer{padding:70px 0 60px; border-bottom:none;}
+  footer{padding:70px 0 60px;}
   .contact-inner{
     display:flex; justify-content:space-between; align-items:flex-end; flex-wrap:wrap; gap:32px;
   }
@@ -554,8 +556,9 @@
 
 <main id="top">
 
-  <section class="hero wrap" style="border-left:1px solid var(--line); border-right:1px solid var(--line); padding-left:0; padding-right:0;">
-    <div class="wrap" style="padding:88px 0 64px;">
+  <!-- HERO -->
+  <section class="hero">
+    <div class="wrap">
       <div class="hero-inner">
         <div>
           <div class="eyebrow">Open to work — full-time &amp; internship roles</div>
@@ -679,7 +682,7 @@
             <li>Developed an AI-based face recognition solution for automated face detection and recognition.</li>
             <li>Prepared and processed image datasets for model training and evaluation.</li>
             <li>Tested the recognition pipeline against test data and debugged preprocessing and model-related issues.</li>
-            <li>Presented the project at <strong style="color:var(--accent-2)">ICSAS 2026</strong>, demonstrating its practical application.</li>
+            <li>Presented the project at <strong>ICSAS 2026</strong>, demonstrating its practical application.</li>
           </ul>
         </div>
       </div>
@@ -808,7 +811,7 @@
       </div>
       <div class="foot-note">
         <span>© 2026 Pradeep Chaudhary</span>
-        <span>Last updated: August 2026</span>
+        <span>Last updated: September 2026</span>
       </div>
     </div>
   </footer>
