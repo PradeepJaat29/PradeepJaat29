@@ -1,53 +1,40 @@
-# Pradeep Chaudhary — Portfolio
+# Hi, I'm Pradeep Chaudhary 👋
 
-Personal portfolio website of Pradeep Chaudhary, a Computer Science Engineering graduate working in software development, data analytics, and AI/ML.
+Computer Science Engineering graduate (B.Tech, Lovely Professional University, 2026) working across **software development, data analytics, and AI/ML**. I like turning messy, real-world data into dashboards, pipelines, and working applications.
 
-**Live site:** https://YOUR-USERNAME.github.io/YOUR-REPO/
+I'm currently open to **full-time and internship roles**.
 
-## What's on the site
+## What I'm doing now
 
-- **About:** background, skills, and tools
-- **Projects:** manufacturing quality analytics dashboard, AI-based face recognition system, and Career Map Generator
-- **Experience:** internships in data analytics, marketing, and community outreach
-- **Education and credentials:** degree, certifications, and achievements
-- **Contact:** email, phone, LinkedIn, and GitHub
+- 📊 Data Analytics with AI Intern at CSRBOX (IBM SkillsBuild program)
+- 🤖 Learning more about applied machine learning and generative AI
+- 🧱 Improving my portfolio and documenting what I build
 
-## Built with
+## Tech stack
 
-- HTML and CSS in a single `index.html` file, with no frameworks or build step
-- Google Fonts: Space Grotesk and JetBrains Mono
-- Responsive layout, keyboard-visible focus states, and reduced-motion support
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
-## Project structure
+## Featured projects
 
-```
-.
-├── index.html    # the whole site (HTML + CSS)
-├── profile.jpg   # profile photo used in the hero section
-└── README.md
-```
+- **Manufacturing Quality & Process Analytics Dashboard:** cleaned and analyzed production, defect, supplier, and delivery data with Python and SQL, then built an interactive Power BI dashboard tracking operational KPIs.
+- **AI-Based Face Recognition System for Law Enforcement:** built a face detection and recognition pipeline in Python using machine learning and computer vision. Presented at ICSAS 2026.
+- **Career Map Generator:** a Java and Spring Boot web app (MVC, Thymeleaf, Maven) that generates personalized career paths from a user's goals.
 
-## Run it locally
+## Certifications and achievements
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/pradeepchaudhary-official/YOUR-REPO.git
-   ```
-2. Open `index.html` in your browser. No install is needed.
+- Data Analytics with AI: IBM SkillsBuild
+- Gen AI for Everyone: Coursera
+- Elite rank in an NPTEL examination among 11,000+ learners
 
-## Deploy with GitHub Pages
+## Find me
 
-1. Push `index.html` and `profile.jpg` to the root of your repository.
-2. Go to **Settings → Pages**.
-3. Under **Build and deployment**, choose **Deploy from a branch**, select `main` and `/ (root)`, then save.
-4. Wait a minute or two, then open the live link above.
-
-## Updating the site
-
-Edit `index.html`, then commit and push. Pages redeploys automatically. Hard refresh (`Ctrl + Shift + R`) if you still see the old version.
-
-## Contact
-
-- Email: pradeepjaat2911@gmail.com
-- LinkedIn: https://www.linkedin.com/in/pradeep-chaudharycs/
-- GitHub: https://github.com/pradeepchaudhary-official
+- 🌐 Portfolio: https://YOUR-PORTFOLIO-LINK
+- 💼 LinkedIn: https://www.linkedin.com/in/pradeep-chaudharycs/
+- 📧 Email: pradeepjaat2911@gmail.com
