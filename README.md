@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0A1628,60:001F4D,90:00F5FF,100:7F00FF&height=260&section=header&text=%20PRADEEP%20CHAUDHARY%20&fontSize=88&fontColor=00F5FF&animation=fadeIn&fontAlignY=35&fontAlignX=50&desc=Cybersecurity%20Fresher%20%7C%20SOC%20Analyst%20Track%20%7C%20Software%20Engineer&descSize=22&descColor=FFFFFF" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0A1628,60:001F4D,90:00F5FF,100:7F00FF&height=260&section=header&text=PRADEEP%20CHAUDHARY&fontSize=75&fontColor=00F5FF&animation=fadeIn&fontAlignY=35&fontAlignX=50&desc=Cybersecurity%20Fresher%20%7C%20SOC%20Analyst%20Track%20%7C%20Software%20Engineer&descSize=22&descColor=FFFFFF" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=4500&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&lines=Software+Engineer+%7C+Cybersecurity+Fresher;Python+%7C+SIEM+%7C+SQL;SOC+Analyst+Career+Transition;Security+Automation+%7C+Threat+Detection" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=4500&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&lines=Software+Engineer+%7C+Cybersecurity+Fresher;Python+%7C+SIEM+%7C+SQL;SOC+Analyst+Career+Transition;Support+Roles+%7C+Security+Automation" alt="typing" />
 
 <br>
 
@@ -14,16 +14,16 @@
 
 ## About Me
 
-I’m a Computer Science graduate building a career at the intersection of **cybersecurity and software engineering**. My goal is to move into **SOC Analyst / Security Operations** roles while staying on a strong engineering path that can expand into **Security Engineer, DevSecOps, and Threat Detection** work.
+I'm a Computer Science graduate building a career at the intersection of **cybersecurity, support technology, and software engineering**. My goal is to move into **SOC Analyst / Security Operations** roles while staying open to **entry-level Software Engineer** and **Support / Desktop Support** opportunities that build technical credibility and career momentum.
 
 I focus on:
-- **Python** for security automation and scripting
-- **SIEM / log analysis** foundations for SOC workflows
-- **SQL** for data correlation and security event analysis
-- **Java** and backend development for building real tools
-- **Threat detection** and practical security project work
+- **Python** for automation and security workflow scripting
+- **SIEM / log analysis** foundations for SOC work
+- **SQL** for data correlation and troubleshooting
+- **Java** and backend development for software engineering roles
+- **IT support and troubleshooting mindset** for system, desktop, and user support environments
 
-> I don’t just want to learn security — I want to build security workflows, detect threats, and solve real operational problems.
+> I’m not just targeting one lane — I’m building a strong foundation across security, engineering, and support so I can enter the industry through practical, entry-level opportunities.
 
 ---
 
@@ -45,14 +45,20 @@ I focus on:
 
 ## Career Direction
 
-### Primary Path
+### Primary Target
 - **SOC Analyst L1** → **Security Analyst** → **Security Engineer**
 
-### Adjacent Paths
-- **Threat Intelligence Analyst**
-- **DevSecOps Engineer**
-- **Incident Response Analyst**
-- **Security Automation Engineer**
+### Open to Adjacent Entry-Level Roles
+- **Software Engineer Fresher**
+- **Support Engineer**
+- **Desktop Support Engineer**
+- **IT Support Specialist**
+- **Help Desk Analyst**
+- **Technical Support Engineer**
+- **Junior Security Analyst**
+- **Security Operations Analyst**
+
+This gives me practical access to real-world technical roles while continuing my cybersecurity transition.
 
 ---
 
@@ -100,7 +106,7 @@ Python + NLP project built with spaCy for conversational logic.
 Mastered / Strong             Java | OOP | DSA | Git | Backend
 Intermediate                  Python | SQL | Spring Boot | Networking
 Learning / Active Focus       SIEM | Log Analysis | Security Automation | Windows/Linux Security
-Next Growth Area              Detection Engineering | MITRE ATT&CK | Cloud Security | DevSecOps
+Open-to-Role Area             Software Engineer Fresher | Support Engineer | Desktop Support | SOC Analyst
 ```
 
 ---
@@ -119,12 +125,13 @@ Next Growth Area              Detection Engineering | MITRE ATT&CK | Cloud Secur
 - 🔄 SIEM and log analysis
 - 🔄 Network security fundamentals
 - 🔄 SOC-style simulation and detection
+- 🔄 Troubleshooting and support workflows
 
 ### Next Milestones
 - 🎯 Build a complete intrusion detection project
 - 🎯 Build a practical log analysis and alert correlation tool
 - 🎯 Create a SOC home lab foundation
-- 🎯 Apply for SOC Analyst / Security roles with portfolio evidence
+- 🎯 Apply for software engineer, support, and security entry-level roles
 
 ---
 
@@ -176,14 +183,14 @@ Next Growth Area              Detection Engineering | MITRE ATT&CK | Cloud Secur
 
 ---
 
-> Security isn’t just about using tools — it’s about building systems, understanding threats, and solving operational problems with engineering mindset.
+> I’m building a strong technical foundation across software, support, and security so I can join the industry through practical entry-level opportunities and continue growing into specialized roles.
 
 ---
 
 <div align="center">
 
 ```text
-From Engineering Foundations → Security Operations → Threat Detection → Career Growth
+Software Engineer Fresher → Support & IT Roles → Security Operations → Growth into Security Specialization
 ```
 
 </div>
