@@ -1,403 +1,489 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:00F5FF,100:7F00FF&height=220&section=header&text=PRADEEP&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CYBERSECURITY%20%7C%20SOC%20%7C%20CSE&descAlignY=58&descSize=20"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=800&lines=B.Tech+Computer+Science+Graduate;Cybersecurity+Fresher;Aspiring+SOC+Analyst+L1;Learning+SIEM+%7C+Detection+%7C+Incident+Response;Building+My+First+SOC+Home+Lab;From+CSE+Fundamentals+to+Blue+Team+Security"/>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VISITORS&color=00F5FF&style=for-the-badge"/>
+<!-- BILLBOARD TRANSITION EFFECT -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:00F5FF,100:7F00FF&height=220&section=header&text=PRADEEP&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&fontAlignX=50" alt="header" />
 
 </div>
 
 ---
-
-## `> whoami`
-
-```bash
-$ whoami
-
-Pradeep Chaudhary
-B.Tech Computer Science Graduate
-Cybersecurity Fresher
-Aspiring SOC Analyst
-```
-
-I am a **B.Tech Computer Science graduate** transitioning into cybersecurity with a focus on **Security Operations and SOC analysis**.
-
-My approach:
-
-> **Learn → Build → Investigate → Document → Improve**
-
-I am building the foundations required for entry-level SOC roles through networking, operating systems, security fundamentals, log analysis, SIEM, detection engineering and incident response.
-
----
-
-## `> target_roles`
-
-```text
-SOC Analyst L1
-Junior SOC Analyst
-Security Operations Analyst
-Cybersecurity Analyst
-Junior Security Analyst
-SIEM Analyst
-Junior Blue Team Analyst
-Security Operations Intern
-Incident Response Analyst
-Threat Monitoring Analyst
-```
-
----
-
-## `> mission.exe`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=500&color=7F00FF&center=true&vCenter=true&width=700&lines=Computer+Science;↓;Networking;↓;Windows+%7C+Linux;↓;Security+Fundamentals;↓;SIEM;↓;SOC+Operations;↓;Detection+Engineering;↓;Incident+Response"/>
+## 🎬 BILLBOARD TRANSITIONS
+
+### _Slide 1: Identity_
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=Pradeep+Chaudhary;B.Tech+Computer+Science;Cybersecurity+Fresher;SOC+Analyst+%26+Software+Engineer" alt="intro" />
+
+<br>
+
+### _Slide 2: Current Status_
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=7F00FF&center=true&vCenter=true&width=900&lines=Currently+Learning;Python+%7C+SIEM+%7C+SQL;Building+Security+Projects;Targeting+SOC+%26+Security+Roles" alt="status" />
+
+<br>
+
+### _Slide 3: Career Direction_
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=FF00FF&center=true&vCenter=true&width=900&lines=SOC+Analyst+L1+→+Security+Engineer;Threat+Detection+%26+Automation;DevSecOps+%26+Incident+Response;Cloud+Security+%26+Beyond" alt="direction" />
 
 </div>
 
 ---
 
-## `> current_status`
+## 📊 MASTERY PROGRESSION BOARD
 
-```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│  USER        : PRINCE                                │
-│  ORIGIN      : B.Tech Computer Science               │
-│  MODE        : CYBERSECURITY                          │
-│  TARGET      : SOC ANALYST L1                         │
-│  STATUS      : BUILDING                              │
-│  LAB         : UNDER DEVELOPMENT                      │
-│  MISSION     : CSE → SECURITY OPERATIONS              │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+### ✅ MASTERED (75%+)
+
+```
+████████████████░░░░░░░░░░ 100% | Computer Science Foundation
+████████████████░░░░░░░░░░  95% | Object-Oriented Programming
+████████████████░░░░░░░░░░  90% | Git & Version Control
+████████████████░░░░░░░░░░  85% | Data Structures & Algorithms
+████████████░░░░░░░░░░░░░░  75% | Core Java Development
+```
+
+**What This Means:**
+- ✅ Ready to leverage in interviews
+- ✅ Can teach others
+- ✅ Production-ready code quality
+- ✅ Strong competitive programming foundation
+
+---
+
+### 🟡 INTERMEDIATE (50-75%)
+
+```
+███████████░░░░░░░░░░░░░░░░  65% | Python (scripting & automation)
+███████████░░░░░░░░░░░░░░░░  60% | SQL (queries & database design)
+██████████░░░░░░░░░░░░░░░░░  55% | Java Backend (Spring Boot basics)
+██████████░░░░░░░░░░░░░░░░░  55% | Networking Fundamentals
+██████████░░░░░░░░░░░░░░░░░  50% | Linux Basics
+██████████░░░░░░░░░░░░░░░░░  50% | Windows System Admin
+```
+
+**What This Means:**
+- 🟡 Building real projects with these skills
+- 🟡 Can apply in specialized roles
+- 🟡 Continuous improvement mindset
+- 🟡 Ready to deepen further
+
+---
+
+### 🔵 LEARNING (25-50%)
+
+```
+███████░░░░░░░░░░░░░░░░░░░░  40% | SIEM Tools (Wazuh)
+███████░░░░░░░░░░░░░░░░░░░░  40% | Log Analysis & Parsing
+███████░░░░░░░░░░░░░░░░░░░░  38% | Windows Event Logs
+███████░░░░░░░░░░░░░░░░░░░░  35% | Cybersecurity Concepts
+██████░░░░░░░░░░░░░░░░░░░░░  30% | Incident Response Basics
+██████░░░░░░░░░░░░░░░░░░░░░  30% | Network Security
+██████░░░░░░░░░░░░░░░░░░░░░  28% | MITRE ATT&CK Framework
+```
+
+**What This Means:**
+- 🔵 Active learning through labs
+- 🔵 Building first projects here
+- 🔵 Focused on SOC role readiness
+- 🔵 Rapid growth expected
+
+---
+
+### 🔴 NOT STARTED (0-25%)
+
+```
+██░░░░░░░░░░░░░░░░░░░░░░░░  15% | Detection Engineering
+██░░░░░░░░░░░░░░░░░░░░░░░░  15% | Sigma Rules
+██░░░░░░░░░░░░░░░░░░░░░░░░  10% | Cloud Security (AWS/Azure)
+██░░░░░░░░░░░░░░░░░░░░░░░░  10% | Container Security
+█░░░░░░░░░░░░░░░░░░░░░░░░░   5% | Advanced Threat Hunting
+```
+
+**What This Means:**
+- 🔴 Next phase of learning
+- 🔴 Will tackle after SOC foundation
+- 🔴 Adjacent career path opportunities
+- 🔴 Strategic growth plan
+
+---
+
+## 🚀 TRANSITION PROJECTS (BILLBOARD PHASE)
+
+### **Phase 1: Building Foundational Projects** ✅
+
+```
+[COMPLETED]
+├── BreakupRecoveryJournal (Secure Java App with SHA-256)
+├── CareerMapSpring (Spring Boot MVC Architecture)
+├── CareerMapGenerator (CLI Tool Development)
+├── Data-Structure-Algorithms (DSA Mastery)
+└── Prompt_Chatbot (Python NLP)
+
+LESSONS LEARNED:
+→ Secure coding practices
+→ Backend architecture
+→ File handling & persistence
+→ OOP design patterns
+→ Text processing
 ```
 
 ---
 
-## `> cyber_journey`
+### **Phase 2: Security Transition Projects** 🟡 (IN DEVELOPMENT)
 
-### 🛰️ Cybersecurity Journey
-
-**Journey Start:** `2026-09-25`
-
-<!-- JOURNEY_COUNTER_START -->
-**Cybersecurity Journey:** Day `1`
-<!-- JOURNEY_COUNTER_END -->
-
-> This counter is automatically updated through GitHub Actions.
-
----
-
-## `> current_focus`
-
-| Area | Status |
-|---|---|
-| 🌐 Networking | 🟢 Learning |
-| 🪟 Windows Security | 🟡 Learning |
-| 🐧 Linux | 🟡 Learning |
-| 📜 Windows Event Logs | 🔴 Not Started |
-| 🔍 Sysmon | 🔴 Not Started |
-| 🛡️ SIEM | 🔴 Not Started |
-| 🚨 SOC Triage | 🔴 Not Started |
-| 🎯 MITRE ATT&CK | 🔴 Not Started |
-| 🧪 Detection Engineering | 🔴 Not Started |
-| 🔥 Incident Response | 🔴 Not Started |
-| 🐍 Python Automation | 🟡 Learning |
+```
+[ACTIVE]
+├── Network Intrusion Detection System
+│   └── Status: Foundation building
+│   └── Tech: Python, Scapy, Machine Learning basics
+│   └── Timeline: 2-3 months
+│   └── Why: Core SOC skill demonstration
+│
+└── Security Automation & Log Analysis Tool
+    └── Status: Design phase
+    └── Tech: Python, SQL, CLI logging
+    └── Timeline: Concurrent
+    └── Why: SIEM-like workflow understanding
+```
 
 ---
 
-## `> skill_matrix`
+### **Phase 3: SOC Readiness Projects** 🔵 (UPCOMING)
 
-### 🧠 Computer Science Foundation
+```
+[PLANNED]
+├── SOC Home Lab
+│   └── Windows + Linux + Sysmon + Wazuh
+│   └── Alert triage workflows
+│   └── Incident investigation scenarios
+│
+├── Detection Engineering Lab
+│   └── Sigma rules for common attacks
+│   └── MITRE ATT&CK mapping
+│
+└── Incident Response Automation
+    └── Python scripts for SOC workflows
+    └── Alert correlation & triage
+```
+
+---
+
+## 📈 SKILL MATRIX VISUALIZATION
+
+### **Tier 1: Production Ready** ⭐⭐⭐⭐⭐
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/SQL-050505?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/DSA-050505?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-<img src="https://img.shields.io/badge/OOP-050505?style=for-the-badge&logo=codeforces&logoColor=00F5FF"/>
-<img src="https://img.shields.io/badge/DBMS-050505?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
-<img src="https://img.shields.io/badge/Operating%20Systems-050505?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-<img src="https://img.shields.io/badge/Computer%20Networks-050505?style=for-the-badge&logo=cisco&logoColor=1BA0D7"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/OOP-00F5FF?style=flat-square&logo=codeforces&logoColor=black" alt="OOP" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/DSA-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="DSA" />
 
 </p>
 
-### 🛡️ Cybersecurity
+---
+
+### **Tier 2: Project Ready** ⭐⭐⭐⭐
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Networking-050505?style=for-the-badge&logo=cisco&logoColor=00F5FF"/>
-<img src="https://img.shields.io/badge/Linux%20Security-050505?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-<img src="https://img.shields.io/badge/Windows%20Security-050505?style=for-the-badge&logo=windows&logoColor=00A4EF"/>
-<img src="https://img.shields.io/badge/SOC%20Fundamentals-050505?style=for-the-badge&logo=security&logoColor=00F5FF"/>
-<img src="https://img.shields.io/badge/Incident%20Response-050505?style=for-the-badge&logo=virustotal&logoColor=394EFF"/>
-<img src="https://img.shields.io/badge/MITRE%20ATT%26CK-050505?style=for-the-badge&logo=target&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Networking" />
 
 </p>
 
-### 🔎 Tools I Am Learning
+---
+
+### **Tier 3: Active Learning** ⭐⭐⭐
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Wazuh-050505?style=for-the-badge&logo=wazuh&logoColor=00F5FF"/>
-<img src="https://img.shields.io/badge/Sysmon-050505?style=for-the-badge&logo=microsoft&logoColor=00A4EF"/>
-<img src="https://img.shields.io/badge/Wireshark-050505?style=for-the-badge&logo=wireshark&logoColor=1679A7"/>
-<img src="https://img.shields.io/badge/Nmap-050505?style=for-the-badge&logo=gnometerminal&logoColor=00F5FF"/>
-<img src="https://img.shields.io/badge/Sigma-050505?style=for-the-badge&logo=sigma&logoColor=FF0000"/>
-<img src="https://img.shields.io/badge/Git-050505?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/SIEM-00F5FF?style=flat-square&logo=security&logoColor=black" alt="SIEM" />
+<img src="https://img.shields.io/badge/Log_Analysis-7F00FF?style=flat-square&logo=splunk&logoColor=white" alt="Log Analysis" />
+<img src="https://img.shields.io/badge/Windows_Security-00A4EF?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+<img src="https://img.shields.io/badge/Linux_Security-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/SOC_Concepts-FF00FF?style=flat-square" alt="SOC" />
 
 </p>
 
 ---
 
-## `> skill_progress`
+### **Tier 4: Exploration Phase** ⭐⭐
 
-```text
-COMPUTER SCIENCE        ███████████████░░░░░  75%
-NETWORKING              ████████████░░░░░░░░  60%
-PYTHON                  ███████████░░░░░░░░░  55%
-LINUX                   ██████████░░░░░░░░░░  50%
-WINDOWS                 ██████████░░░░░░░░░░  50%
+<p align="center">
 
-SOC FUNDAMENTALS        ██████░░░░░░░░░░░░░░  30%
-SIEM                    ███░░░░░░░░░░░░░░░░░  15%
-LOG ANALYSIS            ███░░░░░░░░░░░░░░░░░  15%
-MITRE ATT&CK            ██░░░░░░░░░░░░░░░░░░  10%
-DETECTION ENGINEERING   ██░░░░░░░░░░░░░░░░░░  10%
-INCIDENT RESPONSE       ██░░░░░░░░░░░░░░░░░░  10%
-```
+<img src="https://img.shields.io/badge/Cloud_Security-FF9900?style=flat-square&logo=amazon&logoColor=white" alt="Cloud Security" />
+<img src="https://img.shields.io/badge/Detection_Engineering-FF0000?style=flat-square" alt="Detection Eng" />
+<img src="https://img.shields.io/badge/Threat_Hunting-FFD700?style=flat-square" alt="Threat Hunting" />
+<img src="https://img.shields.io/badge/DevSecOps-50E3C2?style=flat-square" alt="DevSecOps" />
 
-> Percentages are personal learning estimates, not professional proficiency claims.
+</p>
 
 ---
 
-## `> soc_home_lab`
+## 🎯 CAREER TRANSITION ROADMAP
 
-### 🚧 SOC Home Lab
-
-**Status: UNDER DEVELOPMENT**
-
-The flagship project will simulate a small SOC environment inside an isolated lab.
-
-```text
-                 ┌──────────────────┐
-                 │  WINDOWS ENDPOINT│
-                 └────────┬─────────┘
-                          │
-                   Event Logs
-                          │
-                       Sysmon
-                          │
-                          ▼
-                 ┌──────────────────┐
-                 │  LOG COLLECTION  │
-                 └────────┬─────────┘
-                          │
-                          ▼
-                 ┌──────────────────┐
-                 │       SIEM       │
-                 │      WAZUH       │
-                 └────────┬─────────┘
-                          │
-                          ▼
-                 ┌──────────────────┐
-                 │ DETECTION / ALERT│
-                 └────────┬─────────┘
-                          │
-                          ▼
-                 ┌──────────────────┐
-                 │   SOC TRIAGE     │
-                 └────────┬─────────┘
-                          │
-                          ▼
-                 ┌──────────────────┐
-                 │  INVESTIGATION   │
-                 └────────┬─────────┘
-                          │
-                          ▼
-                 ┌──────────────────┐
-                 │ MITRE ATT&CK MAP │
-                 └────────┬─────────┘
-                          │
-                          ▼
-                 ┌──────────────────┐
-                 │ INCIDENT REPORT  │
-                 └──────────────────┘
 ```
-
-### Planned Stack
-
-```text
-Windows
-Ubuntu / Linux
-Sysmon
-Wazuh
-Wireshark
-Sigma
-Python
-PowerShell
-Bash
-MITRE ATT&CK
-Git / GitHub
-```
-
-### Planned Investigation Scenarios
-
-```text
-[01] Failed Login Investigation
-[02] Brute Force Detection
-[03] Suspicious PowerShell
-[04] New User Creation
-[05] Privilege Escalation
-[06] Suspicious Process Execution
-[07] Network Anomaly
-[08] IOC Investigation
-[09] Malware-like Behaviour
-[10] Incident Response Case Study
-```
-
-All activities will be performed in an **authorized isolated lab environment**.
-
----
-
-## `> projects`
-
-| Project | Status | Focus |
-|---|---|---|
-| `security-notes` | 🟡 Building | Cybersecurity knowledge base |
-| `cybersecurity-learning` | 🟡 Building | Learning roadmap & progress |
-| `soc-homelab` | 🔴 Planned | SOC environment |
-| `windows-security-lab` | 🔴 Planned | Windows security |
-| `detection-engineering` | 🔴 Planned | Sigma / detection rules |
-| `incident-response-lab` | 🔴 Planned | IR investigations |
-| `network-security-lab` | 🔴 Planned | Network analysis |
-| `security-automation` | 🔴 Planned | Python automation |
-
-### Build Philosophy
-
-```text
-NO FAKE PROJECTS
-NO FAKE EXPERIENCE
-NO FAKE CERTIFICATIONS
-NO COPY-PASTE SECURITY CLAIMS
-
-BUILD → TEST → DOCUMENT → PUBLISH
+┌─────────────────┐
+│   CS GRADUATE   │  (✅ Completed)
+└────────┬────────┘
+         │
+         ▼
+┌──────────────────────────┐
+│  FOUNDATION BUILDING     │  (✅ In Progress)
+│ • DSA Mastery           │
+│ • Secure Coding         │
+│ • Backend Development   │
+│ • SQL & Databases       │
+└────────┬─────────────────┘
+         │
+         ▼
+┌──────────────────────────┐
+│  SECURITY TRANSITION     │  (🟡 Current Phase)
+│ • Python Automation     │
+│ • SIEM Learning         │
+│ • Log Analysis          │
+│ • Network Intrusion Lab │
+└────────┬─────────────────┘
+         │
+         ▼
+┌──────────────────────────┐
+│  SOC READINESS           │  (🔵 Next Phase)
+│ • Home Lab Setup        │
+│ • Alert Triage          │
+│ • Incident Response     │
+│ • MITRE ATT&CK Mapping  │
+└────────┬─────────────────┘
+         │
+         ▼
+┌──────────────────────────┐
+│  JOB READY               │  (🔴 Target)
+│ • SOC Analyst L1        │
+│ • Security Operations   │
+│ • Incident Response     │
+└────────┬─────────────────┘
+         │
+         ▼
+┌──────────────────────────┐
+│  ADJACENT PATHS          │  (⭐ Future)
+│ • Security Engineer      │
+│ • DevSecOps             │
+│ • Threat Intelligence   │
+│ • Cloud Security        │
+└──────────────────────────┘
 ```
 
 ---
 
-## `> github_statistics`
+## 📊 GITHUB STATISTICS
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00F5FF&icon_color=7F00FF&text_color=FFFFFF"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=PradeepJaat29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00F5FF&icon_color=7F00FF&text_color=FFFFFF" alt="GitHub stats" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00F5FF&text_color=FFFFFF"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradeepJaat29&layout=compact&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00F5FF&text_color=FFFFFF" alt="Top languages" />
 
 </div>
 
 ---
 
-## `> activity`
+## 🎬 FEATURED PROJECTS SHOWCASE
 
-<div align="center">
+### **[Network Intrusion Detection System]** 🚀 _CURRENT PROJECT_
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=050505&ring=00F5FF&fire=7F00FF&currStreakLabel=00F5FF"/>
+**Status:** Foundation Phase 🟡
 
-</div>
+```
+BUILDING A PYTHON-BASED SECURITY TOOL
 
----
-
-## `> achievements`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=[https://github.com/PradeepJaat29}&theme=matrix&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"/>
-
-</div>
-
----
-
-## `> contribution_graph`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=050505&color=00F5FF&line=7F00FF&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
-
----
-
-## `> mission_targets`
-
-```text
-[✓] Complete CSE foundation
-[✓] Start cybersecurity transition
-
-[ ] Strengthen networking
-[ ] Strengthen Windows security
-[ ] Strengthen Linux security
-[ ] Learn Windows Event Logs
-[ ] Learn Sysmon
-[ ] Deploy first SIEM
-[ ] Build SOC Home Lab
-[ ] Perform alert triage
-[ ] Investigate security events
-[ ] Map incidents to MITRE ATT&CK
-[ ] Write detection rules
-[ ] Build incident reports
-[ ] Automate SOC tasks with Python
-[ ] Build cybersecurity portfolio
-[ ] Apply for SOC Analyst L1 roles
+Objectives:
+├── Parse network traffic patterns
+├── Detect anomalies using statistical analysis
+├── Generate security alerts
+├── Simulate SIEM workflow
+│
+Tech Stack:
+├── Python (Scapy, NumPy, Pandas)
+├── Data analysis & ML basics
+├── Network security concepts
+│
+Why It Matters:
+├── Direct SOC Analyst responsibility
+├── Shows Python + Security fusion
+├── Bridges to Security Engineering
+│
+Timeline: 2-3 months
 ```
 
 ---
 
-<div align="center">
+### **[Security Automation & Log Analysis Tool]** 💡 _COMPANION PROJECT_
 
-## `> motto`
+**Status:** Design Phase 🔵
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Don't+just+learn+security.;Build+it.;Break+it.;Investigate+it.;Document+it.;Build+it+better."/>
+```
+AUTOMATING SOC WORKFLOWS
 
-</div>
+Build:
+├── Multi-source log ingestion
+├── Pattern matching for threats
+├── SQL-based event correlation
+├── Alert triage CLI
+│
+Skills Demonstrated:
+├── Python automation
+├── SQL databases
+├── SIEM concepts
+├── Real SOC processes
+```
 
 ---
 
-## `> connect`
+### **[SOC Home Lab]** 🏠 _MASTER PROJECT_
+
+**Status:** Planning Phase 🔴
+
+```
+COMPLETE SECURITY OPERATIONS ENVIRONMENT
+
+Architecture:
+Windows Endpoint
+    ↓ (Event Logs + Sysmon)
+Log Collection
+    ↓
+SIEM (Wazuh)
+    ↓
+Alert Generation
+    ↓
+SOC Triage
+    ↓
+Investigation
+    ↓
+MITRE ATT&CK Mapping
+    ↓
+Incident Report
+```
+
+---
+
+## 💼 TIER PROGRESSION CHECKLIST
+
+### ✅ Tier 1: Foundation (COMPLETED)
+
+```
+[✓] Core CS concepts mastered
+[✓] Java projects completed (5+)
+[✓] DSA strong foundation
+[✓] Git workflows understood
+[✓] Secure coding basics
+[✓] Backend architecture concepts
+```
+
+### 🟡 Tier 2: Specialization (ACTIVE)
+
+```
+[✓] Python intermediate level
+[✓] SQL database fundamentals
+[✓] Start security automation
+[ ] SIEM tool proficiency
+[ ] Log analysis workflows
+[ ] Windows/Linux security details
+[ ] Network intrusion detection live
+[ ] Security automation tool live
+```
+
+### 🔵 Tier 3: Mastery (UPCOMING)
+
+```
+[ ] SOC Home Lab operational
+[ ] Multiple incident investigations
+[ ] Detection rules written
+[ ] MITRE framework mastery
+[ ] Threat hunting capabilities
+[ ] Automation scripts library
+```
+
+### 🔴 Tier 4: Leadership (FUTURE)
+
+```
+[ ] Security engineer level
+[ ] Team contribution
+[ ] Open source security tools
+[ ] Cloud security expertise
+[ ] Leadership in field
+```
+
+---
+
+## 🎓 LEARNING PHILOSOPHY
+
+> **Learn → Build → Break → Fix → Document → Teach**
+
+I don't just consume information. I:
+1. **Learn** new concepts
+2. **Build** projects to apply them
+3. **Break** things in labs
+4. **Fix** issues systematically
+5. **Document** findings
+6. **Teach** through code & writing
+
+---
+
+## 🤝 CONNECT & COLLABORATE
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-<img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<a href="https://www.linkedin.com/in/pradeep-chaudharycs/">
+  <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<a href="mailto:pradeepjaat2911@gmail.com">
+  <img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
 </a>
 
-<a href="https://tryhackme.com/p/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/TryHackMe-050505?style=for-the-badge&logo=tryhackme&logoColor=88CC14"/>
+<a href="https://github.com/PradeepJaat29">
+  <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+</a>
+
+<a href="https://leetcode.com/PradeepJaat29/">
+  <img src="https://img.shields.io/badge/LeetCode-050505?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
 </a>
 
 </div>
 
 ---
 
+## ⚡ QUICK STATS
+
+```
+💻 Languages: Java, Python, SQL, C++, HTML
+🎯 Focus: SOC, Security Automation, SIEM
+📈 Progress: 60% toward SOC Analyst ready
+🔐 Next: Network Intrusion Detection Project
+🚀 Goal: SOC Analyst L1 position + Security Engineer path
+```
+
+---
+
 <div align="center">
 
 ```text
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║       CSE GRADUATE  →  CYBERSECURITY FRESHER         ║
-║                                                      ║
-║       BUILDING PRACTICAL SOC SKILLS                  ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════╗
+║                                                        ║
+║           FROM CS FUNDAMENTALS → SECURITY EXPERT       ║
+║                                                        ║
+║       BUILDING REAL-WORLD SOC & SECURITY SKILLS      ║
+║                                                        ║
+║     Not just learning. Building. Testing. Improving.   ║
+║                                                        ║
+╚════════════════════════════════════════════════════════╝
 ```
 
 </div>
+
+---
+
+_Last Updated: October 2026_ | _Profile Actively Evolving_ 🚀
