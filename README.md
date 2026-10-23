@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0A1628,60:001F4D,90:00F5FF,100:7F00FF&height=260&section=header&text=PRADEEP%20CHAUDHARY&fontSize=75&fontColor=00F5FF&animation=fadeIn&fontAlignY=35&fontAlignX=50&desc=Cybersecurity%20Fresher%20%7C%20SOC%20Analyst%20Track%20%7C%20Software%20Engineer&descSize=22&descColor=FFFFFF" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=4500&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&lines=Software+Engineer+%7C+Cybersecurity+Fresher;Python+%7C+SIEM+%7C+SQL;SOC+Analyst+Career+Transition;Support+Roles+%7C+Security+Automation" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=4500&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&lines=Software+Engineer+%7C+Cybersecurity+Fresher;Python+%7C+SIEM+%7C+SQL;SOC+Analyst+Career+Transition;Support+Roles+%7C+Security+Automation" alt="typing"/>
 
 <br>
 
