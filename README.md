@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0A1628,60:001F4D,90:00F5FF,100:7F00FF&height=260&section=header&text=PRADEEP%20CHAUDHARY&fontSize=75&fontColor=00F5FF&animation=fadeIn&fontAlignY=35&fontAlignX=50&desc=Cybersecurity%20Fresher%20%7C%20SOC%20Analyst%20Track%20%7C%20Software%20Engineer&descSize=22&descColor=FFFFFF" alt="header" />
 
