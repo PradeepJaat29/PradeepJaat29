@@ -178,7 +178,7 @@ Open-to-Role Area             Software Engineer Fresher | Support Engineer | Des
 <a href="https://leetcode.com/PradeepJaat29/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
 </a>
-
+ 
 </div>
 
 ---
