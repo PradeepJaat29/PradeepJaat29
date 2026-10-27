@@ -14,7 +14,7 @@
 
 ## About Me
 
-Computer Science graduate building a career at the intersection of **cybersecurity, support technology, and software engineering**. My goal is to move into **SOC Analyst / Security Operations** roles while staying open to **entry-level Software Engineer** and **Support / Desktop Support** opportunities that build technical credibility and career momentum.
+Computer Science graduate building a career at the intersection of **cybersecurity, support technology, and software engineering**. My goal is to move into **SOC Analyst / Security Operations** roles while staying open to **entry-level Software Engineer** and **Support / Desktop Support** opportunities that build technical credibility & career momentum.
 
 I focus on:
 - **Python** for automation and security workflow scripting
