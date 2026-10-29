@@ -143,7 +143,7 @@ Open-to-Role Area             Software Engineer Fresher | Support Engineer | Des
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradeepJaat29&layout=compact&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00F5FF&text_color=FFFFFF" alt="Top languages" />
 
-</div>
+</div> 
 
 ---
 
