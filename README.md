@@ -18,7 +18,7 @@ Computer Science graduate building a career at the intersection of **cybersecuri
 
 I focus on:
 - **Python** for automation and security workflow scripting
-- **SIEM / log analysis** foundations for SOC work
+- **SIEM / Log analysis** foundations for SOC work
 - **SQL** for data correlation and troubleshooting
 - **Java** and backend development for software engineering roles
 - **IT support and troubleshooting mindset** for system, desktop, and user support environments
