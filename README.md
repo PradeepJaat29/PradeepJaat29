@@ -20,7 +20,7 @@ I focus on:
 - **Python** for automation and security workflow scripting
 - **SIEM / Log analysis** foundations for SOC work
 - **SQL** for data correlation and troubleshooting
-- **Java** and backend development for software engineering roles
+- **Java** and Backend development for software engineering roles
 - **IT support and troubleshooting mindset** for system, desktop, and user support environments
 
 > I’m not just targeting one lane — I’m building a strong foundation across security, engineering, and support so I can enter the industry through practical, entry-level opportunities.
