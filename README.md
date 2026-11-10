@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=4500&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&lines=Software+Engineer+%7C+Cybersecurity+Fresher;Python+%7C+SIEM+%7C+SQL;SOC+Analyst+Career+Transition;Support+Roles+%7C+Security+Automation" alt="typing"/>
 
 <br>
- 
+  
 <img src="https://komarev.com/ghpvc/?username=PradeepJaat29&label=PROFILE+VIEWS&color=00F5FF&style=for-the-badge" alt="profile views"/>
 
 </div>
